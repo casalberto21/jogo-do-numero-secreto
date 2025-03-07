@@ -17,7 +17,7 @@ function exibirMensagemInicial(){
 <<<<<<< HEAD
 =======
 exibirTextoNaTela('h1', 'Jogo do numero secreto')
-exibirTextoNaTela('p', 'Digite um número entre 1 e 1000' );
+exibirTextoNaTela('p', 'Digite um número entre 1 e 100' );
 
 >>>>>>> 9294643 (numero máximo de 1000)
 
