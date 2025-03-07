@@ -6,7 +6,7 @@ let tentativas = 1;
 function exibirTextoNaTela(tag, texto){
     let campo = document.querySelector(tag)
     campo.innerHTML = texto
-    //Esse responsiveVoice é a voz de robô, caso ache uma mais legal altera aí!//
+    //Esse responsiveVoice é a voz de robô, caso ache uma mais legal altera aí!!//
     responsiveVoice.speak(texto, 'Brazilian Portuguese Female', {rate:1.2});
 }
 
